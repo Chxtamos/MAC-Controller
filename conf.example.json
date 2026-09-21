@@ -1,0 +1,27 @@
+{
+  "_comment": "Copy this file to conf.json, replace placeholder values with your real private Controller settings, and NEVER commit conf.json.",
+  "controllers": [
+    {
+      "name": "Controller 1",
+      "ip": "xxx.xxx.xxx.xxx",
+      "username": "admin",
+      "config_path": "/md"
+    },
+    {
+      "name": "Controller 2",
+      "ip": "xxx.xxx.xxx.xxx",
+      "username": "admin",
+      "config_path": "/md"
+    }
+  ],
+  "roles": [
+    {
+      "name": "example-role-1",
+      "separator": "-"
+    },
+    {
+      "name": "example-role-2",
+      "separator": ":"
+    }
+  ]
+}

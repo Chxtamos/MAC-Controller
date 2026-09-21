@@ -1,0 +1,18 @@
+# Local runtime configuration (contains real Controller IP/username)
+conf.json
+
+# Local secrets / passwords
+.streamlit/secrets.toml
+.env
+*.env
+
+# Python cache / virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local logs / editor files
+*.log
+.vscode/
+.idea/

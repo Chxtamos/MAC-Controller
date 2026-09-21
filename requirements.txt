@@ -1,0 +1,9 @@
+# Web UI
+streamlit
+
+# Aruba REST API requests
+requests
+
+# CSV/XLSX bulk processing
+pandas
+openpyxl
